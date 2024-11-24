@@ -7,16 +7,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/marcangelo-gilig-509398286/)
 
 ## Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" bg="white"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--!Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#cb3837" d="M288 288h-32v-64h32v64zm288-128v192H288v32H160v-32H0V160h576zm-416 32H32v128h64v-96h32v96h32V192zm160 0H192v160h64v-32h64V192zm224 0H352v128h64v-96h32v96h32v-96h32v96h32V192z"/></svg>
+<img src="https://img.icons8.com/color/30/000000/html-5.png" alt="HTML">
+<img src="https://img.icons8.com/color/30/000000/css3.png" alt="CSS">
+<img src="https://img.icons8.com/color/30/000000/javascript.png" alt="JavaScript">
+<img src="https://img.icons8.com/color/30/000000/tailwindcss.png" alt="Tailwind CSS">
+<img src="https://img.icons8.com/ios-filled/30/000000/react.png" alt="React">
+<img src="https://img.icons8.com/ios-filled/30/000000/git.png" alt="Git">
+<img src="https://img.icons8.com/ios-filled/30/000000/github.png" alt="GitHub">
+<img src="https://img.icons8.com/color/30/000000/npm.png" alt="npm">
+<img src="https://img.icons8.com/ios-filled/30/000000/php.png" alt="PHP">
 
 <!--
 **Geloxix/Geloxix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
