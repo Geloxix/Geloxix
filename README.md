@@ -1,4 +1,4 @@
-## Hi there 👋 I,m Marc Angelo Gilig
+## Hi there 👋 I,m Marc Angelo
 
 
 ## Socials
