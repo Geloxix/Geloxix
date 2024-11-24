@@ -1,6 +1,6 @@
 ## Hi there 👋 I,m Marc Angelo Gilig
 🌱 I’m currently learning ...
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)]
 
 <!--
 **Geloxix/Geloxix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
