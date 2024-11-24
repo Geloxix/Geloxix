@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/marcangelo-gilig-509398286/)
 
 ## Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <!--
 **Geloxix/Geloxix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
