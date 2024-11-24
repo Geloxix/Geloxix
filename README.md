@@ -7,15 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/marcangelo-gilig-509398286/)
 
 ## Skills
-<img src="https://img.icons8.com/color/30/000000/html-5.png" alt="HTML">
-<img src="https://img.icons8.com/color/30/000000/css3.png" alt="CSS">
-<img src="https://img.icons8.com/color/30/000000/javascript.png" alt="JavaScript">
-<img src="https://img.icons8.com/color/30/000000/tailwindcss.png" alt="Tailwind CSS">
-<img src="https://img.icons8.com/ios-filled/30/000000/react.png" alt="React">
-<img src="https://img.icons8.com/ios-filled/30/000000/git.png" alt="Git">
-<img src="https://img.icons8.com/ios-filled/30/000000/github.png" alt="GitHub">
-<img src="https://img.icons8.com/color/30/000000/npm.png" alt="npm">
-<img src="https://img.icons8.com/ios-filled/30/000000/php.png" alt="PHP">
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 <!--
 **Geloxix/Geloxix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
