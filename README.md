@@ -1,6 +1,6 @@
 ## Hi there 👋 I,m Marc Angelo Gilig
-🌱 I’m currently learning ...
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Geloxix)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/your-profile](https://www.facebook.com/nnnngelo))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/your-profile](https://linkedin.com/in/marcangelo-gilig-509398286/))
 
 <!--
