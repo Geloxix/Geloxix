@@ -16,6 +16,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+<i class="fa-brands fa-npm" style="color: #cb3837;"></i>
 
 
 <!--
