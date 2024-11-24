@@ -1,6 +1,7 @@
 ## Hi there 👋 I,m Marc Angelo Gilig
 🌱 I’m currently learning ...
-[Visit My Website](https://example.com)
+[Socials]
+(https://example.com)
 
 <!--
 **Geloxix/Geloxix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
